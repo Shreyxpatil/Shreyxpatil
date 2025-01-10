@@ -7,18 +7,23 @@ Aspiring Software Development Engineer | AI Developer | Machine Learning Enthusi
 💼 Internship Highlights:
 
 Machine Learning Intern | EdTech Society, IIT Bombay
+
 Developed a Facial Emotion Detection model using ResNet and the DAiSEE dataset, achieving 92.5% accuracy and enhancing real-time classification.
 
 AI-ML Virtual Intern | AICTE
+
 Built machine learning models with 92% accuracy, optimized classification workflows, and improved real-world reliability through data preprocessing.
 
 Machine Learning Intern | Prarambh Development Cell
+
 Designed an Alzheimer’s Predictor using CNN and Flask, achieving 96.3% accuracy and improving early diagnosis.
 
 BI & Data Analyst Intern | Simdaa Technologies
+
 Utilized Power BI, Python, and Excel for data cleaning, visualization, and analytical insights, improving decision-making and business logic.
 
 Cybersecurity Intern | Cisco Networking Academy
+
 Gained expertise in network security concepts, threat detection, and defense techniques using Cisco tools.
 
 🎯 Key Technical Skills:

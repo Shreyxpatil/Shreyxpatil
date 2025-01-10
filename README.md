@@ -1,62 +1,35 @@
-Aspiring AI Developer | Python Developer | Frontend Developer | Data Analyst
+Aspiring Software Development Engineer | AI Developer | Machine Learning Enthusiast | Data Analyst
 
-📧 Email: shreyas.syp@outlook.com | 📞 Phone: +91 7620280740
+📧 Email: shreyasyuvrajpatil@gmail.com | 📞 Phone: +91 7620280740
 
-👋 Hello! Welcome to my LinkedIn profile. I am a Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning, aspiring to carve a career as an AI Developer, Python Developer, and Frontend Developer.
+👋 Hi there! I’m Shreyas Patil, a B.Tech student specializing in Artificial Intelligence and Machine Learning at D.Y. Patil College of Engineering and Technology, Kolhapur. I am passionate about solving complex problems, developing scalable AI solutions, and delivering actionable insights through data analysis.
 
-💼 Professional Experience
+💼 Internship Highlights:
 
-🔹 Business Intelligence and Data Analyst Intern | Simdaa Technologies
+Machine Learning Intern | EdTech Society, IIT Bombay
+Developed a Facial Emotion Detection model using ResNet and the DAiSEE dataset, achieving 92.5% accuracy and enhancing real-time classification.
 
-Interned: Jun 2023 - Jul 2023
-Utilized tools such as Microsoft Power BI, Excel, and Python for data cleaning, visualization, and analytical insights.
+AI-ML Virtual Intern | AICTE
+Built machine learning models with 92% accuracy, optimized classification workflows, and improved real-world reliability through data preprocessing.
 
-🔹 Machine Learning Intern | Prarambh Development Cell
+Machine Learning Intern | Prarambh Development Cell
+Designed an Alzheimer’s Predictor using CNN and Flask, achieving 96.3% accuracy and improving early diagnosis.
 
-Interned: Sep 2023 - Oct 2023
-Worked on hybrid projects focusing on CNN, Machine Learning, and AI using Python programming.
+BI & Data Analyst Intern | Simdaa Technologies
+Utilized Power BI, Python, and Excel for data cleaning, visualization, and analytical insights, improving decision-making and business logic.
 
-🔹 Python Developer Intern | CodeClause
+Cybersecurity Intern | Cisco Networking Academy
+Gained expertise in network security concepts, threat detection, and defense techniques using Cisco tools.
 
-Interned: Jun 2023
-Developed proficiency in Python programming and contributed to remote projects.
+🎯 Key Technical Skills:
 
-🔹 Web Developer and Design Intern | Oasis Infobyte
+Programming: Python, Java, C++, JavaScript, SQL
+Tools & Frameworks: Flask, Django, TensorFlow, PyTorch, Power BI, Docker
+Specializations: Data Structures & Algorithms, Computer Vision, NLP, System Design
+🚀 Key Projects:
 
-Interned: Jul 2023 - Aug 2023
-Collaborated remotely on web development projects using JavaScript, CSS, and HTML.
+Facial Emotion Detection: Built a model using RetinaNet and FPN, achieving 92.5% accuracy for real-time emotion classification.
+Scalable Ride-Sharing Application: Developed a backend system with microservices architecture using Spring Boot and PostgreSQL.
+Alzheimer’s Predictor: Created a CNN-based model with Flask to classify dementia stages, achieving 96.3% accuracy.
+🌟 I am eager to connect with professionals, recruiters, and collaborators in AI, software development, and data analysis. Let’s work together to solve challenges and create impactful, innovative solutions!
 
-
-💼 Leadership Experience
-
-🔹 Secretary | AIML Student Association | DYPCET
-      Aug 2023 - Present
-
-🔹 Internship Coordinator | Training and Placement Cell | DYPCET
-      Sep 2022 - May 2023
-
-🔹 Operations Coordinator | Microsoft Learn Student Ambassadors DYPCET Chapter
-      Nov 2023 - Present
-
-🔹 Technical Coordinator | Prarambh Development Cell, DYPCET
-      Oct 2023 - Present
-
-
-🎓 Education
-
-🔹 Computer Science & Engineering with Artificial Intelligence and Machine Learning
-
-D.Y.Patil College of Engineering and Technology, Kolhapur
-Expected Graduation: May 2025
-
-🚀 Technical Skills
-
-Programming: Python, HTML, CSS, JavaScript
-Data Analysis: Power BI, Pandas, NumPy, Tableau (basic)
-Tools: Git, Github, Visual Studio Code
-
-💬 Connect with me
-
-Eager to connect with professionals, recruiters, and enthusiasts in AI, Python, and frontend development. If interested in collaborating on projects or discussing opportunities, feel free to reach out via LinkedIn, email, or phone.
-
-Let's make a difference through innovative technology solutions!

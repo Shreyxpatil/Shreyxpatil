@@ -1,40 +1,69 @@
-Aspiring Software Development Engineer | AI Developer | Machine Learning Enthusiast | Data Analyst
+**👋 Hi, I’m Shreyas Patil**
 
-📧 Email: shreyasyuvrajpatil@gmail.com | 📞 Phone: +91 7620280740
+**AI/ML Engineer • GenAI Developer • LLM Optimization • Agentic AI Systems**
+Building scalable AI systems with **LLMs, LangGraph, RAG, Voice AI, and Deep Learning**.
 
-👋 Hi there! I’m Shreyas Patil, a B.Tech student specializing in Artificial Intelligence and Machine Learning at D.Y. Patil College of Engineering and Technology, Kolhapur. I am passionate about solving complex problems, developing scalable AI solutions, and delivering actionable insights through data analysis.
+---
 
-💼 Internship Highlights:
+## 🚀 What I Do
 
-Machine Learning Intern | EdTech Society, IIT Bombay
+* Build **Agentic AI Systems** using LangGraph (state machines, multi-agent loops, HIL workflows).
+* Fine-tune and optimize **LLMs (Qwen 2.5, Llama-3, Mistral)** for high-accuracy, low-latency inference.
+* Develop **Voice AI pipelines**: STT, TTS & Voice Cloning across multiple languages.
+* Architect **enterprise-grade RAG systems** with Pinecone/Chroma + hybrid search.
+* Deploy scalable ML systems using **Docker, FastAPI, OCI GenAI, AWS Bedrock**, and CI/CD.
 
-Developed a Facial Emotion Detection model using ResNet and the DAiSEE dataset, achieving 92.5% accuracy and enhancing real-time classification.
+---
 
-AI-ML Virtual Intern | AICTE
+## 🧠 Technical Stack
 
-Built machine learning models with 92% accuracy, optimized classification workflows, and improved real-world reliability through data preprocessing.
+**Languages:** Python, Java, JavaScript, SQL
+**AI/ML:** PyTorch, TensorFlow, Transformers, LoRA/QLoRA, PEFT
+**GenAI:** LangChain, LangGraph, RAG, Embeddings, Whisper, Voice Cloning
+**MLOps / Cloud:** Docker, OCI, AWS, Git, CI/CD
+**Specializations:** LLMs, NLP, Voice AI, Computer Vision, System Design
 
-Machine Learning Intern | Prarambh Development Cell
+---
 
-Designed an Alzheimer’s Predictor using CNN and Flask, achieving 96.3% accuracy and improving early diagnosis.
+## 🔥 Featured Work
 
-BI & Data Analyst Intern | Simdaa Technologies
+### **Confidential AI Pipeline Project**
 
-Utilized Power BI, Python, and Excel for data cleaning, visualization, and analytical insights, improving decision-making and business logic.
+* Designed an end-to-end data processing and monitoring pipeline
+* Implemented high-compression algorithms and accelerated ETL workflows
+* Integrated predictive AI modules with optimized token and compute usage
 
-Cybersecurity Intern | Cisco Networking Academy
+### **Advanced Text-to-SQL System**
 
-Gained expertise in network security concepts, threat detection, and defense techniques using Cisco tools.
+* Fine-tuned Qwen 2.5 for multi-domain natural language → SQL generation
+* Improved accuracy through automated dataset merging and cleaning
+* Reduced GPU usage with parameter-efficient fine-tuning techniques
 
-🎯 Key Technical Skills:
+### **Multilingual Voice AI System**
 
-Programming: Python, Java, C++, JavaScript, SQL
-Tools & Frameworks: Flask, Django, TensorFlow, PyTorch, Power BI, Docker
-Specializations: Data Structures & Algorithms, Computer Vision, NLP, System Design
-🚀 Key Projects:
+* Built a multi-language voice cloning and synthesis pipeline
+* Enabled automatic speaker-token extraction and batch-level generation
+* Delivered modular components optimized for production environments
 
-Facial Emotion Detection: Built a model using RetinaNet and FPN, achieving 92.5% accuracy for real-time emotion classification.
-Scalable Ride-Sharing Application: Developed a backend system with microservices architecture using Spring Boot and PostgreSQL.
-Alzheimer’s Predictor: Created a CNN-based model with Flask to classify dementia stages, achieving 96.3% accuracy.
-🌟 I am eager to connect with professionals, recruiters, and collaborators in AI, software development, and data analysis. Let’s work together to solve challenges and create impactful, innovative solutions!
+### **Agentic Code Security Framework**
 
+* Developed adversarial multi-agent workflows using LangGraph
+* Automated verify-fix cycles to improve code integrity and reliability
+* Implemented structured JSON-based communication for secure evaluation
+
+---
+
+## 🏢 Industry Experience
+
+**AIML & GenAI Developer @ Cloud Analogy**
+**ML Developer @ Microsage (GateTUTOR)**
+
+Worked on LLM optimization, AI automation pipelines, multilingual voice systems, fine-tuned models, scalability improvements, and enterprise AI architecture design.
+
+---
+
+## 🌐 Let’s Connect
+
+Portfolio: [https://shreyxpatil.github.io](https://shreyxpatil.github.io)
+LinkedIn: [https://www.linkedin.com/in/shreypatil/](https://www.linkedin.com/in/shreypatil/)
+GitHub: [https://github.com/Shreyxpatil](https://github.com/Shreyxpatil)

@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/Shreyxpatil">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0e1a&height=200&section=header&text=%20&fontAlign=50" style="position: absolute; z-index: 1;" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=200&lines=Hey%2C+I'm+Shreyas!+%F0%9F%9A%80;AI%2FML+Developer;GenAI+%26+LLM+Engineer" style="position: relative; z-index: 2; margin-top: -200px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Shreyas!+%F0%9F%9A%80;AI%2FML+Developer;GenAI+%26+LLM+Engineer" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center"> 🚀 Building AI stuff that actually works in the real world 🚀 </h3>

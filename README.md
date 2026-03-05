@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey,%20I'm%20Shreyas!%20%E2%9C%A8&fontSize=70" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
+<h1 align="center"> Hey, I'm Shreyas! </h1>
 <h3 align="center"> 🚀 Building AI stuff that actually works in the real world 🚀 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shreypatil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://shreyxpatil.github.io/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0a0e1a?style=for-the-badge&logo=react&logoColor=00d4ff" alt="Portfolio"></a>
-  <a href="mailto:shreyas.syp@outlook.com"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://shreyxpatil.github.io/"><img src="https://img.shields.io/badge/Interactive_Portfolio-0a0e1a?style=for-the-badge" alt="Portfolio"></a>
+  <a href="mailto:shreyas.syp@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -83,5 +84,5 @@ Here’s what I’ve been coding up recently. No toy projects — just high-impa
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>

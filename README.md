@@ -25,7 +25,7 @@ By day, I build massive predictive AI pipelines at **Cloud Analogy**. By night, 
 
 Here’s what I’ve been coding up recently. No toy projects — just high-impact, scalable builds:
 
-*   ⚡ **Energy 7 (E7) Pipeline**
+*   ⚡ **Railway Pipeline**
     Dropped a β-VAE anomaly detector on 200+ railway machines. Squeezed signal compression to 99%+ with crazy fast ETL speeds. (*Python, FastAPI, Signal Processing*)
 
 *   🧠 **[InnerTone](https://github.com/Shreyxpatil/InnerTone)** 
